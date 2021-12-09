@@ -1,4 +1,4 @@
-# DARK BLOCK OF NOTES
+# DARK BLOCK OF NOTES 🖤 📝
 
 This is a copy of the Notepad windows app created on python tkinter with a default black/yellow theme plus another options of editing colors, fonts, etc.
 I didn't create it at all, i just re-do it and add some options, configs, etc, but, mostly, all of the credit reserved to his author. 
