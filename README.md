@@ -1,6 +1,7 @@
 # DARK BLOCK OF NOTES
 
 This is a copy of the Notepad windows app created on python tkinter with a default black/yellow theme plus another options of editing colors, fonts, etc.
+I didn't create it at all, i just re-do it and add some options, configs, etc, but, mostly, all of the credit reserved to his author. 
 downsides: you can't re-open a file with the same config and it's not as versatile as de notepad from windows that's on the path.
 
 ![1](https://user-images.githubusercontent.com/86896365/145326087-de68e0d0-8ae0-4d23-912d-d7309827a33d.png) 
